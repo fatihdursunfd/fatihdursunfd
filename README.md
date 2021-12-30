@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/fatihdursun_fd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fatihdursun_fd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fatih-dursun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fatih-dursun/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/fatih_dursun_616" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="/fatih_dursun_616" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/fatih_dursun_616" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="/fatih_dursun_616" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
