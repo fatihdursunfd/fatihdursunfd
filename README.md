@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
+- I’m currently learning **dotnet**
 - 🌱 I’m currently learning **react**
 
 - 💬 Ask me about **dotnet**
