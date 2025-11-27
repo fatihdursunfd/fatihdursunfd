@@ -87,3 +87,11 @@ I enjoy designing APIs, optimizing databases, working with distributed systems, 
 - SQL Management Studio / pgAdmin  
 - Insomnia, Thunder Client  
 
+
+## 📫 Let’s Connect 
+
+- Email: fatih.dursun.616@gmail.com
+- LinkedIn: https://www.linkedin.com/in/fatih-dursun/
+- Medium: https://medium.com/@fatihdursun.fd
+  
+--- _Backend enthusiast · Front-end tinkerer · Always coding, always learning_
